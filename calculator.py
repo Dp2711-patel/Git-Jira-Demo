@@ -14,3 +14,5 @@ if __name__ == "__main__":
     y = input("Enter second number: ")
     result = multiply(x, y)
     print(f"The result is: {result}")
+def add(a, b):
+    return a + b
